@@ -69,7 +69,9 @@ The application will be accessible at `http://localhost:8081`.
 ## Testing
 Written tests for the application components, including controllers, services, and clients. Execute tests using the following Maven command:
 
-
 ```bash
 mvn test
 ```
+Tested the API manually via postman. snapshot attached.
+![Alt Text](./Roundup-StarlingBank.png)
+
