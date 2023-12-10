@@ -4,11 +4,11 @@ The Round-Up Service is a Spring Boot application that interacts with Starling B
 
 ## Table of Contents
 * [Prerequisites](#Prerequisites)
-* [Getting Started](#Getting Started)
+* [Getting Started](#Getting-Started)
 * [Configuration](3Configuration)
-* [API Endpoints](#API Endpoints)
+* [API Endpoints](#API-Endpoints)
 * [Dependencies](#Dependencies)
-* [Build and Run](#Build and Run)
+* [Build and Run](#Build-and-Run)
 * [Testing](#Testing)
 
 

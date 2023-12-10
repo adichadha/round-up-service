@@ -36,7 +36,7 @@ public class AccountsServiceTest {
     void testGetAccounts_SuccessfulResponse() throws IOException, InterruptedException {
         // Arrange
         String authorizationHeader = "Bearer TOKEN";
-        AccountsResponseData expectedResponse = new AccountsResponseData(/* your data */);
+        AccountsResponseData expectedResponse = new AccountsResponseData();
         HttpResponse<String> httpResponse = mock(HttpResponse.class);
 
         when(serviceClient.get(anyString(), any(), any(), eq("Authorization"), eq(authorizationHeader)))
