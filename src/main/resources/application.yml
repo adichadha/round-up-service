@@ -1,0 +1,8 @@
+server:
+  port: 8081
+
+com:
+  starlingbank:
+    round-up:
+      domain: https://api-sandbox.starlingbank.com
+      transactions-days: 7
